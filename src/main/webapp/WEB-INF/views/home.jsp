@@ -9,6 +9,12 @@
 <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
 </head>
 <body>
-승혜 바보
+승혜 바보 <br>
+
+
+안녕하세요.<br>
+
+
+안녕 ~~~~~~~~~~ 우리 벌써 8시얌 ~~~~~~~~~~~~~~
 </body>
 </html>
