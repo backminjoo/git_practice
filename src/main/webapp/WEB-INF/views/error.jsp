@@ -9,6 +9,6 @@
 <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
 </head>
 <body>
-error.jsp
+error.jsp 수정
 </body>
 </html>
