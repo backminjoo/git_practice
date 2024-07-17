@@ -9,6 +9,10 @@
 <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
 </head>
 <body>
-error.jsp 수정 수정2
+
+error.jsp 수정 <br>
+
+다들 저녁에 고생이 많아 ㅠ퓨퓨츄츄 밤새자 어때 ?????? 
+
 </body>
 </html>
